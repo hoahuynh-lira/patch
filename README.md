@@ -1,6 +1,7 @@
 # Hướng Dẫn Patch Checkra1n A10 với A11 iOS 14
    by [exploit3d](https://twitter.com/exploit3dguy) 
-   hướng dẫn bởi [Hoà Huỳnh]
+   
+   Hướng dẫn bởi Hoà Huỳnh
 
 1. Yêu cầu:
 * Tắt mật khẩu máy trước khi Jailbreak bản patch
