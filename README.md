@@ -1,7 +1,8 @@
 # Hướng Dẫn Patch Checkra1n A10 với A11 iOS 14
-by [exploit3d](https://twitter.com/exploit3dguy) 
+   by [exploit3d](https://twitter.com/exploit3dguy) 
 
 1. Yêu cầu:
+* Tắt mật khẩu máy trước khi Jailbreak bản patch
 * Linux hoặc macOS
 - Hướng dẫn cài linux song song với Windows: 
 <a href="https://thuthuat.taimienphi.vn/cach-cai-ubuntu-song-song-voi-windows-10-8-7-uefi-va-gpt-31617n.aspx
