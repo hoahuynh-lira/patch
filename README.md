@@ -20,9 +20,8 @@
  <img src="https://github.com/hoahuynh-lira/hoahuynh-lira.github.io/raw/master/bspatch.png" width="" height="" />
  + Sau khi cài file patch thành công sẽ xuất hiện file "checkra1n_patched" trong thư mục đã chọn.
  <img src="https://github.com/hoahuynh-lira/hoahuynh-lira.github.io/raw/master/file.png" width="" height="" />
- 2.3  bạn phải thiết lập quyền cho Checkra1n: "chmod +x checkra1n-patched"
+ 2.3  bạn phải thiết lập quyền cho Checkra1n: "chmod +x checkra1n_patched"
  <img src="https://github.com/hoahuynh-lira/hoahuynh-lira.github.io/raw/master/chmod.png" width="" height="" />
- 2.3  bạn phải thiết lập quyền cho Checkra1n: "chmod +x checkra1n-patched"
- 2.4 Tiếp tục gõ lệnh để chạy Checkra1n: "./checkra1n-patched -c" hoặc "./checkra1n --cli"
+ 2.4 Tiếp tục gõ lệnh để chạy Checkra1n: "./checkra1n_patched -c" hoặc "./checkra1n --cli"
  <img src="https://github.com/hoahuynh-lira/hoahuynh-lira.github.io/raw/master/checkra1n.png" width="" height="" />
   Chúc bạn thành công!!
