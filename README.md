@@ -2,7 +2,7 @@
 by [exploit3d](https://twitter.com/exploit3dguy) 
 
 1. Yêu cầu:
-* Bạn phải cài Linux
+* Linux hoặc macOS
 - Hướng dẫn cài linux song song với Windows: 
 <a href="https://thuthuat.taimienphi.vn/cach-cai-ubuntu-song-song-voi-windows-10-8-7-uefi-va-gpt-31617n.aspx
 "> 
