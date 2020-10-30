@@ -6,7 +6,7 @@
 1. Yêu cầu:
 * Tắt mật khẩu máy trước khi Jailbreak bản patch
 
-* macOS tải về chỉ cần gõ lệnh "./checkra1n_patched -c" 
+* macOS tải về chỉ cần gõ lệnh "sudo ./checkra1n_patched -c" 
 
 * Linux
    Hướng dẫn cài linux song song với Windows: 
@@ -26,6 +26,6 @@
  <img src="https://github.com/hoahuynh-lira/hoahuynh-lira.github.io/raw/master/file.png" width="" height="" />
  2.3  bạn phải thiết lập quyền cho Checkra1n: "chmod +x checkra1n_patched"
  <img src="https://github.com/hoahuynh-lira/hoahuynh-lira.github.io/raw/master/chmod.png" width="" height="" />
- 2.4 Tiếp tục gõ lệnh để chạy Checkra1n: "./checkra1n_patched -c" hoặc "./checkra1n --cli"
+ 2.4 Tiếp tục gõ lệnh để chạy Checkra1n: "sudo ./checkra1n_patched -c" hoặc "sudo ./checkra1n --cli"
  <img src="https://github.com/hoahuynh-lira/hoahuynh-lira.github.io/raw/master/checkra1n.png" width="" height="" />
   Chúc bạn thành công!!
